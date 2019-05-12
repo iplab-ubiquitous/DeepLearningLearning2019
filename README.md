@@ -1,0 +1,2 @@
+# DeepLearningLearning2019
+機械学習勉強会ニューラルネットワーク編
