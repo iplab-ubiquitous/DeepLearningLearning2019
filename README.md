@@ -1,6 +1,12 @@
 # DeepLearningLearning2019
 機械学習勉強会ニューラルネットワーク編
 
+## スライド
+- DLL1 ... ニューラルネットワークのざっくりとした説明
+- DLL2 ... Google Colaboratoryの使い方，Tensorflow + Kerasの基本的使い方，転移学習
+
+## ドライブ
+https://drive.google.com/drive/folders/1mS8ulDSXpzHr15yg7_xcZ0jkQh9YHo8D?usp=sharing
 
 ## 犬猫データ
 https://drive.google.com/open?id=1YacZJ9yYDmwew_FivQIrHBNowC9nSfDR
